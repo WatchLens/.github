@@ -26,7 +26,3 @@ You are welcome to contribute to WatchLens. Feel free to:
 
 Please post bug reports and feature requests in our
 [GitHub issues](https://github.com/WatchLens/WatchLens/issues) section.
-
-## License
-
-MIT.
