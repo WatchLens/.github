@@ -1,6 +1,9 @@
 # WatchLens
 
-![WatchLens](https://raw.githubusercontent.com/WatchLens/.github/main/profile/banner.png?v=2)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WatchLens/.github/main/profile/banner-dark.png">
+  <img alt="WatchLens" src="https://raw.githubusercontent.com/WatchLens/.github/main/profile/banner-light.png">
+</picture>
 
 WatchLens is an **open source video recommendation research platform**.
 It lets researchers configure user interfaces, swap recommendation
