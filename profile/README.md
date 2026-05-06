@@ -12,9 +12,10 @@ to every event, all within a single deployable system.
 * **[Platform](https://github.com/WatchLens/WatchLens)** — the full
   WatchLens platform (frontend, backend, admin console, plug-in layer
   for recommenders and UIs, and event pipeline).
-* **[Docs](https://github.com/WatchLens/Docs)** — full documentation,
-  event schema reference, UI editor guide, and tutorials for adding
-  custom policies.
+* **[Docs](https://github.com/WatchLens/WatchLens.github.io)** — the
+  Docusaurus-built documentation site (event schema reference, UI
+  editor guide, recommender tutorials). Lives at
+  [watchlens.github.io](https://watchlens.github.io).
 
 ## Contributing
 
