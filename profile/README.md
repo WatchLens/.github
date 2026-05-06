@@ -1,6 +1,6 @@
 # WatchLens
 
-![WatchLens](https://raw.githubusercontent.com/WatchLens/.github/main/profile/banner.png)
+![WatchLens](https://raw.githubusercontent.com/WatchLens/.github/main/profile/banner.png?v=2)
 
 WatchLens is an **open source video recommendation research platform**.
 It lets researchers configure user interfaces, swap recommendation
